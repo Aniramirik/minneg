@@ -1,0 +1,61 @@
+/* General Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px;
+}
+
+/* Header Styles */
+header {
+    background: #004080;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: #e8491d 3px solid;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Main Content */
+main {
+    padding: 20px 0;
+}
+
+/* Ad Section */
+.ad-section {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.ad-section h2 {
+    margin-bottom: 20px;
+    color: #004080;
+}
+
+/* Footer Styles */
+footer {
+    background: #004080;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: #e8491d 3px solid;
+}
